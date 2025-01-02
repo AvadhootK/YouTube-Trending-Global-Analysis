@@ -27,6 +27,8 @@ Key steps include:
 
 ## Visualizations  
 
+![Project Poster](IV_Final_Project_Poster.png)
+
 ### Heatmap  
 Analyzes YouTube viewing patterns across six countries (2017-2019). Darker colors indicate higher views, with the USA leading in Entertainment and Music categories. This visualization reveals regional preferences and temporal trends.  
 
