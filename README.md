@@ -5,7 +5,6 @@ This project explores and visualizes global trends in YouTube video engagement. 
 - Understanding how views, likes, comments, and other metrics vary by country.  
 - Identifying factors contributing to a video’s popularity.
 - uncover patterns in user engagement.
-- 
 
 ## Dataset  
 **Source:** [Kaggle - Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new)  
